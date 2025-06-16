@@ -1,4 +1,5 @@
 # COS 516 Final Project: Liquid Haskell
+Done in collaboration between William Ughetta and Isaac Velasquez
 
 Get started:
 ```
